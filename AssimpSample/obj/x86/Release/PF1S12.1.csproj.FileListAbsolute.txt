@@ -1,0 +1,29 @@
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\AssimpLib\Assimp32.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\AssimpLib\Assimp64.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\AssimpLib\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\3D Models\bajs\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\3D Models\bike\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\3D Models\harli\Harli.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\3D Models\HDavid\Harli.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\3D Models\motor\Futuristic-Bike.3ds
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\3D Models\Semafor\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\3D Models\sem\semaforSimple.3ds
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\AssimpSample.exe.config
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\AssimpSample.pdb
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\SharpGL.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\SharpGL.SceneGraph.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Release\SharpGL.WPF.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\MainWindow.baml
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\MainWindow.g.cs
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\App.g.cs
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\AssimpSample_Content.g.cs
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\AssimpSample_MarkupCompile.cache
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\AssimpSample.g.resources
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\AssimpSample.Properties.Resources.resources
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\PF1S12.1.csproj.GenerateResource.cache
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\PF1S12.1.csproj.CoreCompileInputs.cache
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\PF1S12.1.csproj.CopyComplete
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Release\AssimpSample.pdb

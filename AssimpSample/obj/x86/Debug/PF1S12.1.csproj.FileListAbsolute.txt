@@ -1,0 +1,168 @@
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\3D Models\motoric\bike01.3DS
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\3D Models\semafor\traffic light.obj
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\PF1S12.1.csprojAssemblyReference.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.GenerateResource.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CopyComplete
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\motoric\bike01.3DS
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\semafor\traffic light.obj
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csprojAssemblyReference.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.GenerateResource.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CopyComplete
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Aleksandar Jeremic\Desktop\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\App.g.cs
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.GenerateResource.cache
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CoreCompileInputs.cache
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.pdb
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csprojAssemblyReference.cache
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CopyComplete
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\motor\Futuristic-Bike.3ds
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\sem\semaforSimple.3ds
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\bajs\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\harli\Harli.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\HDavid\Harli.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\bike\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\Semafor\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\bajs\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\bike\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\harli\Harli.obj
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\motor\Futuristic-Bike.3ds
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\Semafor\Downloaded Object.obj
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\3D Models\sem\semaforSimple.3ds
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.pdb
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\AssimpNet.dll
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.dll
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csprojAssemblyReference.cache
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\App.g.cs
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.GenerateResource.cache
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CoreCompileInputs.cache
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CopyComplete
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+E:\7. Semestar\Racunarska grafika\proj\PF1S12.1\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\3D Models\bajs\Downloaded Object.obj
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\3D Models\bike\Downloaded Object.obj
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\3D Models\harli\Harli.obj
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\3D Models\motor\Futuristic-Bike.3ds
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\3D Models\Semafor\Downloaded Object.obj
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\3D Models\sem\semaforSimple.3ds
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.pdb
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\AssimpNet.dll
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\SharpGL.dll
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csprojAssemblyReference.cache
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\App.g.cs
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.GenerateResource.cache
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CoreCompileInputs.cache
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CopyComplete
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+D:\Fakultet\4.Godina\7. Semestar\Racunarska grafika\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+E:\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+E:\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+E:\PF1S12.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+E:\PF1S12.1\AssimpSample\bin\Debug\3D Models\bajs\Downloaded Object.obj
+E:\PF1S12.1\AssimpSample\bin\Debug\3D Models\bike\Downloaded Object.obj
+E:\PF1S12.1\AssimpSample\bin\Debug\3D Models\harli\Harli.obj
+E:\PF1S12.1\AssimpSample\bin\Debug\3D Models\motor\Futuristic-Bike.3ds
+E:\PF1S12.1\AssimpSample\bin\Debug\3D Models\Semafor\Downloaded Object.obj
+E:\PF1S12.1\AssimpSample\bin\Debug\3D Models\sem\semaforSimple.3ds
+E:\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+E:\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.exe
+E:\PF1S12.1\AssimpSample\bin\Debug\AssimpSample.pdb
+E:\PF1S12.1\AssimpSample\bin\Debug\AssimpNet.dll
+E:\PF1S12.1\AssimpSample\bin\Debug\SharpGL.dll
+E:\PF1S12.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+E:\PF1S12.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csprojAssemblyReference.cache
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\App.g.cs
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.GenerateResource.cache
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CoreCompileInputs.cache
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\PF1S12.1.csproj.CopyComplete
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+E:\PF1S12.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb

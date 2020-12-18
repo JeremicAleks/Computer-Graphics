@@ -1,0 +1,42 @@
+# Exported from 3D Builder
+
+newmtl 110
+Kd -nan(ind) -nan(ind) -nan(ind)
+
+newmtl 150
+Kd -nan(ind) -nan(ind) -nan(ind)
+
+newmtl 108
+Kd -nan(ind) -nan(ind) -nan(ind)
+
+newmtl 106
+Kd -nan(ind) -nan(ind) -nan(ind)
+
+newmtl 88
+Kd -nan(ind) -nan(ind) -nan(ind)
+
+newmtl 90
+Kd -nan(ind) -nan(ind) -nan(ind)
+
+newmtl 186_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 3934_1024x1024_6195987693227547908.png
+
+newmtl 188_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 3943_1024x1024_11563080508590297124.png
+
+newmtl 190_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 3952_1024x1024_5628616909738884392.png
+
+newmtl 109
+Kd -nan(ind) -nan(ind) -nan(ind)
+
+newmtl 192_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 3962_1024x1024_17026833529806663332.png
+
+newmtl 196_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 3981_8x8_1535343169432686052.png
